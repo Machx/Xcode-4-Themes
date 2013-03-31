@@ -3,140 +3,140 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
-	<string>0.255 0.801 0.27 1</string>
+	<string>0.169 0.512 0.625 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Menlo-Bold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0 0 1</string>
-	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>1 1 1 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0 0 0 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.512 0.488 0.378 1</string>
+	<string>0.891972 0.635291 1 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.420701 0.189216 0.346376 1</string>
+	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.0130106 0.075998 0.108167 1</string>
+	<string>0.123333 0.125729 0.138681 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0.510204 0.510204 0.510204 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.512 0.488 0.378 1</string>
+	<string>0.891972 0.635291 1 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.247 0.345 0.454 1</string>
+		<string>0.179045 1 0.548456 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.469 0.426 1 1</string>
+		<string>1 0.548541 0.205019 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.14148 0.453159 0.135423 1</string>
+		<string>0.318548 0.318548 0.318548 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.154506 0.494881 0.147892 1</string>
+		<string>0.318548 0.318548 0.318548 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.149289 0.478169 0.142897 1</string>
+		<string>0.318548 0.318548 0.318548 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.132324 0.755104 0.26328 1</string>
+		<string>0.182418 1 0.548446 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.0932846 0.719686 0.998634 1</string>
+		<string>0.182418 1 0.548446 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.663671 1 0.119708 1</string>
+		<string>0.329135 0.654316 0.831688 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0 0.626 1 1</string>
+		<string>0.532352 0.633814 0.740448 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.141438 0.804722 0.465014 1</string>
+		<string>0.532352 0.633814 0.740448 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0 0.626 1 1</string>
+		<string>0.532352 0.633814 0.740448 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.896 0.488 0.284 1</string>
+		<string>0.665091 0.445968 0.652161 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.896 0.488 0.284 1</string>
+		<string>0.665091 0.445968 0.652161 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.147537 0.838224 0.557567 1</string>
+		<string>0.316937 0.655122 0.83166 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0 0.626 1 1</string>
+		<string>0.316937 0.655122 0.83166 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.234943 0.907293 0.29441 1</string>
+		<string>0.216023 0.520511 0.743761 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0 0.626 1 1</string>
+		<string>0.216023 0.520511 0.743761 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.986559 0.612947 0.0862498 1</string>
+		<string>0.63503 0.830109 0.0721727 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.469 0.426 1 1</string>
+		<string>1 0.548541 0.205019 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.783857 0.784599 0.783944 1</string>
+		<string>0.926027 0.924097 0.966442 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.896 0.488 0.284 1</string>
+		<string>0.665091 0.445968 0.652161 1</string>
 		<key>xcode.syntax.string</key>
-		<string>0.987467 0.329214 0.0278419 1</string>
+		<string>0.836828 0.764855 0.549969 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.1 0.1 1 1</string>
+		<string>0.63503 0.830109 0.0721727 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>UbuntuMono-Regular - 13.0</string>
+		<string>UbuntuMono-Regular - 12.0</string>
 	</dict>
 </dict>
 </plist>
